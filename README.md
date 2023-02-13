@@ -1,6 +1,10 @@
 <p align="center">
   <img width="400" src=" ./images/images/logo-readme.png"> </p>
   
+  <p align="center">             
+<img width="350" height="200" src="/images/images/readme-video.gif" />
+</p> 
+  
   # How did the idea come about?
   
 This page was developed using HTML, CSS and JavaScript.
