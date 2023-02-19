@@ -17,7 +17,7 @@ The choice of the theme of the page was made to put into practice my knowledge i
 - Animation using '@Keyframes'
 - Make the page responsive using 'Media Queries'
 
-## See Restaurant's Landing Page in action
+## See Landing Page in action
 
 Try with our [live demo](https://honey-blue-website-page.vercel.app/).
 </br>
