@@ -21,7 +21,8 @@ The choice of the theme of the page was made to put into practice my knowledge i
 
 Try with our [live demo](https://honey-blue-website-page.vercel.app/).
 </br>
-See below how the page behaves on different screens:
+
+## See below how the page behaves on different screens:
 
  <p align="center">
 <img width="400" src=" ./images/images/readme-image.png"> </p>
